@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["helloWorld","name","console","log"],"mappings":";;AAAA,SAASA,UAAT,GAAuB;AACnB,QAAIC,OAAO,OAAX;AACAC,YAAQC,GAAR,YAAqBF,IAArB;AACH","file":"all.js","sourcesContent":["function helloWorld () {\n    let name = 'Morty';\n    console.log(`Hello ${name}`);\n}"]}

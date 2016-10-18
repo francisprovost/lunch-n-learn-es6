@@ -1,0 +1,20 @@
+{
+  "name": "lunch-n-learn-es6",
+  "version": "0.0.1",
+  "main": "all.js",
+  "repository": {
+    "url": "git@github.com:francisprovost/lunch-n-learn-es6.git",
+    "type": "git"
+  },
+  "author": "Francis Provost <fprovost@solutionsmedias360.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.16.0",
+    "gulp-babel": "^6.1.2"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-sourcemaps": "^2.1.1"
+  }
+}
